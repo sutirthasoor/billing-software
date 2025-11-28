@@ -1,0 +1,10 @@
+tkinter
+sqlite3
+datetime
+json
+matplotlib==3.5.1
+pillow==9.0.0
+pandas==1.4.0
+numpy==1.22.0
+openpyxl==3.0.9
+reportlab==3.6.1
